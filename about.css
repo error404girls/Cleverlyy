@@ -12,12 +12,12 @@ body {
 
 .about-container {
     width: 80%;
+    position: relative;
     background-color: white; 
     padding: 40px;
-    margin-top: 150px;
     display: flex;
     flex-direction: column; 
-    justify-content: flex-start; 
+    justify-content: center;
     align-items: center;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
     border-radius: 10px;
