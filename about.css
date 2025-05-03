@@ -30,7 +30,7 @@ body {
 #logo {
     width: 100px;
     position: absolute;
-    right: 10px;
+    right: 20px;
     top: 20px;
 }
 
@@ -92,7 +92,7 @@ body {
 }
 @media (max-width: 800px) {
     .about-container {
-        width: 90%;
+        width: 80%;
         padding: 20px;
     }
     #logo {
