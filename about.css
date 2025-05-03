@@ -11,10 +11,10 @@ body {
 }
 
 .about-container {
-    
     width: 80%;
     background-color: white; 
     padding: 40px;
+    margin-top: 50px;
     display: flex;
     flex-direction: column; 
     justify-content: flex-start; 
